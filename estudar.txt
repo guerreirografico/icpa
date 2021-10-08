@@ -1,1 +1,10 @@
 Comandos Git e GitHub
+
+local:
+git init (touch index.html)
+git add
+git commit -m
+git remote add origin +(link repositório)
+git push - u origin master
+OBS.: git remote set-url +linkRepositório
+altera o repositori existente.
