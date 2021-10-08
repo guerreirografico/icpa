@@ -8,3 +8,14 @@ git remote add origin +(link repositório)
 git push - u origin master
 OBS.: git remote set-url +linkRepositório
 altera o repositori existente.
+
+clone:git 
+git clone +link
+git checkout -b nome_branch
+code . (modifica o arquivo e salva)
+git status
+git add +arquivo modificado
+git commit -m
+git pull
+git push -u origin nome_branch
+Vai no repositório faz a resquest
