@@ -19,3 +19,10 @@ git commit -m
 git pull
 git push -u origin nome_branch
 Vai no repositório faz a resquest
+
+UNIR CODIGOS (BRANCHS)
+git checkout master
+git remote add origin (link servidor caso não esteja conectado)
+git pull origin master
+git fetch = puchar branchs do servidor
+git checkout nome-bran
